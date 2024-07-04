@@ -23,20 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Feito um aprendizado de máquina usando dados no Microsoft Azure, feito em outro bootcamp.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🧐 Processo de Criação e ## 🚀 Resultados
+[Descreva como você criou o conteúdo](https://github.com/B4rry4ll3n/LABAI-900-Usando-IA-Microsoft-Copilot)
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Acima tem o repositório com os resultados e entradas utilizadas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi usado uma base do Microsoft já pré-definidas para usar recursos pro nicho do cliente / projeto que eu esteja trabalhando.
+Focando na solução e adaptação do projeto as IA's.
 
 ### Exemplos e Insigths
 
